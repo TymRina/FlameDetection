@@ -69,7 +69,7 @@ pip install -r requirements.txt
 - 百度网盘链接：`https://pan.baidu.com/s/1iW9_fdv-PcpE7oehU1_POQ?pwd=tzej`
 - 提取码：`tzej`
 
-下载完成后，解压并将所有文件放入项目根目录下的`火焰数据集`目录中。
+下载完成后，解压并将`dataset`放入项目根目录中。
 
 ### 数据预处理
 
