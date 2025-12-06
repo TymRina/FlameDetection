@@ -28,7 +28,7 @@ runs/
 *.onnx
 result_*.jpg
 
-# Dataset (optional, comment out if you want to include the dataset)
+# Dataset (too large for GitHub, always ignore)
 dataset/
 火焰数据集/
 
