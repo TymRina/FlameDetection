@@ -1,0 +1,37 @@
+# Python
+*.py[cod]
+*$py.class
+__pycache__/
+
+# Virtual environments
+venv/
+env/
+*.venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Project specific
+runs/
+*.pt
+*.pth
+*.onnx
+result_*.jpg
+
+# Dataset (optional, comment out if you want to include the dataset)
+dataset/
+火焰数据集/
+
+# OS
+.DS_Store
+Thumbs.db
