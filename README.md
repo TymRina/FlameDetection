@@ -62,6 +62,15 @@
 pip install -r requirements.txt
 ```
 
+### 数据集获取
+
+由于数据集较大，无法直接包含在GitHub仓库中，您可以通过以下方式获取：
+
+- 百度网盘链接：`https://pan.baidu.com/s/1iW9_fdv-PcpE7oehU1_POQ?pwd=tzej`
+- 提取码：`tzej`
+
+下载完成后，解压并将所有文件放入项目根目录下的`火焰数据集`目录中。
+
 ### 数据预处理
 
 1. 将原始火焰数据集放入`火焰数据集`目录

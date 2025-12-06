@@ -30,6 +30,7 @@ result_*.jpg
 
 # Dataset (too large for GitHub, always ignore)
 dataset/
+dataset.zip
 火焰数据集/
 
 # OS
